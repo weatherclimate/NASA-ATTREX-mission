@@ -1,7 +1,7 @@
 # NASA-ATTREX-mission
 #Written by Ji-Eun Kim
 
-Airborne Tropical TRopopause EXperiment (ATTREX) is a series of measurement campaigns 
+Airborne Tropical TRopopause EXperiment (ATTREX) is a series of measurement campaigns (2011—2015)
 using the long-range NASA Global Hawk (GH) unmanned aircraft system (UAS) 
 to provide better understanding of stratospheric water vapor impacting the earth's energy budget and climate.
 
